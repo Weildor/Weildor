@@ -1,4 +1,4 @@
-# Hola Mi nombre es Weildor 👋
+# Hola, mi nombre es Weildor 👋
 
 <!--
 **Weildor/Weildor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
